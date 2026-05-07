@@ -1,0 +1,5 @@
+import fastapi from FASTAPI
+app = get(fastapi)
+a= b+c 
+d= b+c 
+m=c+b
